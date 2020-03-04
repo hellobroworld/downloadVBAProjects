@@ -22,3 +22,5 @@ Public Sub prcImport()
     End With
 End Sub
 ```
+
+3. If Error 1004 occurs, look up this link for more information: https://support.pcmiler.com/en/support/solutions/articles/19000047036-what-does-error-1004-programmatic-access-to-visual-basic-project-is-not-trusted-mean-
