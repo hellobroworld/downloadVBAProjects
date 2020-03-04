@@ -8,7 +8,7 @@ Easy method to download a vba project from git into your excel project
 Public Sub prcImport()
     Dim objVBComponents As Object, strFilename As String
     Dim path As String
-    path = "C:\YOUR_PATH" 
+    path = "C:\Your_Directory Path\" 
     strFilename = Dir(path & "*.*")
     With ActiveWorkbook.VBProject
         Do While strFilename <> ""
